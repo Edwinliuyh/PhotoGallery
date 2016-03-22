@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PhotoGallery\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f2585daad085d944360881dc3464b80656453c5c.jar" />
+    </item>
+
+</items>
